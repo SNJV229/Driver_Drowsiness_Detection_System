@@ -1,0 +1,2 @@
+# Driver_Drowsiness_Detection_System
+The main objective of the project is to create a system that can detect the driver drowsiness and fatigue and alert them by creating a beep sound so that driver gets awake and accidents are prevented due to fatigue and tiredness. Many drivers get asleep during driving the car and as a result they met in an accident, so if this system is installed in a car which can observe the face expressions of the driver and detect whether the driver is sleepy or not and alert the driver to wake so the accidents can be prevented.
